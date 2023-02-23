@@ -78,12 +78,14 @@ Cada item que compõe um Product Backlog representa uma funcionalidade, algo que
 Esses itens podem ter o formato que você quiser -- por exemplo, um conjuntinho de casos de uso do sistema pode ser um item válido. Há uma forte preferência entre agilistas, no entanto, de usar um formato especial para representar esses itens: uma história de usuário (user story).
 
 Uma história é um formato criado em eXtreme Programming (XP) para representar um item que agrega valor a usuários e agrega, de uma forma bastante simples, três informações importantíssimas para a priorização e posterior desenvolvimento da funcionalidade: por que é importante, para quem é importante e, só então, o que a pessoa quer, em si. O modelo que costumamos preencher é o seguinte:
+
     [TÍTULO]**Para...**
     [por que o pedido é importante]**No papel de...**
     [para quem é importante]**Quero...** 
     [o pedido em si]
 
 Em um sistema de vagas online como o OndeTrabalhar.com, por exemplo, poderíamos ter a história:
+
             VAGAS POR LOCALIDADE
     **Para...** não perder tempo olhando cada vaga para descobrir se é na minha cidade
     **No papel de...** pessoa procurando trabalho
