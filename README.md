@@ -168,22 +168,22 @@ Vimos que, para que o planejamento de uma Sprint caiba nos 5% da duração da Sp
 Pense que a segunda história mais importante de nosso Backlog é a seguinte:
 
                         Opção de boleto
-**Para...**atender aos pedidos de 15 pessoas que foram na conferência ano passado
-**No papel de...**organização da Agile Brazil
-**Quero...**oferecer a opção de pagamento em boleto no site e controlar as inscrições feitas com essa forma de pagamento no sistema.
+    **Para...**atender aos pedidos de 15 pessoas que foram na conferência ano passado
+    **No papel de...**organização da Agile Brazil
+    **Quero...**oferecer a opção de pagamento em boleto no site e controlar as inscrições feitas com essa forma de pagamento no sistema.
 	
 Essa simples história já poderia ser quebrada em pelo menos duas menores, que individualmente já agregam valor para papéis diferentes e nem mesmo precisam ser feitos no mesmo Sprint!
 
                         Inscrição em boleto
-**Para...** conseguir pagar minha inscrição no caixa eletrônico do meu banco
-**No papel de...** participante da Agile Brazil
-**Quero...** escolher pagar minha inscrição em boleto e emití-lo direto da próxima página
+    **Para...** conseguir pagar minha inscrição no caixa eletrônico do meu banco
+    **No papel de...** participante da Agile Brazil
+    **Quero...** escolher pagar minha inscrição em boleto e emití-lo direto da próxima página
 
 E, também:
 						Pagamentos de boleto
-**Para...** não vender mais ingressos do que devia, nem menos do que podia
-**No papel de...** organizador da Agile Brazil
-**Quero...** reservar vagas na conferência quando alguém gerar um boleto e, ou criar a inscrição quando receber a confirmação do pagamento do gateway, ou abrir a vaga para vendas novamente, quando o boleto vencer sem ser pago.
+    **Para...** não vender mais ingressos do que devia, nem menos do que podia
+    **No papel de...** organizador da Agile Brazil
+    **Quero...** reservar vagas na conferência quando alguém gerar um boleto e, ou criar a inscrição quando receber a confirmação do pagamento do gateway, ou abrir a vaga para vendas novamente, quando o boleto vencer sem ser pago.
 	
 Note que, graças ao refinamento, foi preciso perguntar melhor os porquês daquela história original e o que exatamente está sendo pedido. Assim, será mais fácil gerenciar essas histórias no Planning Meeting que está por vir.
 
