@@ -191,3 +191,30 @@ Note que, graças ao refinamento, foi preciso perguntar melhor os porquês daque
 Outra informação importante sobre o P.O. é que ele é **uma pessoa, não um comitê**. A razão para isso é bastante simples: o time precisa saber quem está no comando do que será feito e, se tivéssemos diversos P.O.s correríamos um maior risco de informações conflitantes atrapalharem o time.
 
 Assim, consideramos essas várias pessoas como clientes e tanto elas quanto o time podem influenciar o P.O., mas a palavra final e o plano de como maximizar o valor entregue pelo time é do Product Owner.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Desenvolvedor
+
+### Papéis: desenvolvedor
+Enquanto em ambientes mais tradicionais os executores das tarefas apenas fazem o trabalho que lhes é atribuído, tentando respeitar os prazos já decididos por eles e da forma como alguém definiu... essa não é nossa realidade em times ágeis.
+
+Como vimos nos capítulos anteriores, desenvolvedores discutem histórias tecnicamente, estimam o esforço para fazê-las e negociam o que cabe na Sprint durante o planning. Daí, nos daily scrums, eles decidem qual tarefa vão pegar para si, considerando o resultado esperado da Sprint.
+
+A vida dos desenvolvedores dentro de um ambiente ágil é mais complexa do que em um ambiente tradicional, onde eles podem apenas seguir ordens e já fazem seu trabalho. Ao mesmo tempo, as possibilidades de crescimento pessoal aqui são muitas e a autonomia dada a esse grupo é muito interessante, especialmente dado que tratamos aqui com trabalhadores do conhecimento. Em um time ágil, há espaço para criatividade no desenvolvimento.
+
+Em resumo, no dia-a-dia dos desenvolvedores em times ágeis...
+
+### Desenvolvedores devem:
+
+	* Decidir a abordagem técnica para os problemas apresentados;
+	* Trocar informações e ajudar os companheiros de time;
+	* ESTIMAR AS  HÍSTORIAS durante o planning;
+	* ESCOLHER SUA PRÓXIMA TAREFA a ser feita, considerando as prioridades da Sprint;
+	* Buscar a qualidade do projeto e a redução de erros.
+
+### E desenvolvedores não devem:
+
+	* Considerar dúvidas técnicas como impedimentos - elas são apenas problemas;
+	* Esperar que alguém decida as atividades a serem feitas por eles;
+    * Se recusar a aprender um pouco sobre outras áreas de desenvolvimento.
